@@ -21,7 +21,7 @@ The second part is aboute performing leave one out cross validation "LOOCV" to o
 
 ## Results <a name="results"></a>
 ### I tried to classify the European countries according to their wealth and poverty "rich\mid\poor".
-![Output](https://github.com/shahadl/university-data-analysis-course/blob/main/Principal_Components_Analysis/image/output.PNG)
+![Output](https://github.com/shahadl/Principal_Components_Analysis/blob/main/image/output.PNG)
 
 ### This plot shows me that the first two components helped to separate the groups very well,
 
